@@ -77,7 +77,7 @@ render() {
                 ref="textInput"
                 placeholder="Type to add new tasks"
               />
-          </form> : ''
+          </form> : <h2>sdcASC</h2>
 		}
         </header>
  
